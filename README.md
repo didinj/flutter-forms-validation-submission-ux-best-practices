@@ -1,6 +1,6 @@
 # Mastering Forms in Flutter: Validation, Submission, and UX Best Practices
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/68c78763dc01967d6b286870/mastering-forms-in-flutter-validation-submission-and-ux-best-practices).
 
 A new Flutter project.
 
